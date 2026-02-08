@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Christophe72/webelec-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Christophe72/webelec-frontend.git
